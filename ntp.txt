@@ -1,1 +1,1 @@
-time2.google.com
+server 1.europe.pool.ntp.org
